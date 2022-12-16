@@ -31,20 +31,20 @@ The KCNA is a certification aimed for individuals who want to advance to the pro
 
 ## KCNA topics overview
 
-- [X] [Kubernetes Fundamentals - 46%](#small_blue_diamond-1-kubernetes-fundamentals---46)
-- [X] [Container Orchestration - 22%](#small_blue_diamond-2-container-orchestration---22)
-- [X] [Cloud Native Architecture - 16%](#small_blue_diamond-3-cloud-native-architecture---16)
-- [X] [Cloud Native Observability - 8%](#small_blue_diamond-4-cloud-native-observability---8)
-- [X] [Cloud Native Application Delivery - 8%](#small_blue_diamond-5-cloud-native-application-delivery---8)
+- [ ] [Kubernetes Fundamentals - 46%](#small_blue_diamond-1-kubernetes-fundamentals---46)
+- [ ] [Container Orchestration - 22%](#small_blue_diamond-2-container-orchestration---22)
+- [ ] [Cloud Native Architecture - 16%](#small_blue_diamond-3-cloud-native-architecture---16)
+- [ ] [Cloud Native Observability - 8%](#small_blue_diamond-4-cloud-native-observability---8)
+- [ ] [Cloud Native Application Delivery - 8%](#small_blue_diamond-5-cloud-native-application-delivery---8)
 
 ## Practice questions for KCNA
-- [X] [Practice questions](./mock-exam-questions/questions.md)
+- [ ] [Practice questions](./mock-exam-questions/questions.md)
 
 #### Extra helpful materials
 
-- [x] [Slack](#slack)
-- [x] [Books](#books)
-- [x] [Youtube Videos](#useful-youtube-videos)
+- [ ] [Slack](#slack)
+- [ ] [Books](#books)
+- [ ] [Youtube Videos](#useful-youtube-videos)
 
 ### Useful keys & Common accronyms in Kubernetes
 
